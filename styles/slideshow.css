@@ -17,6 +17,9 @@ header h1{
 h1{
     color: black;
     text-align: center;
+    border-bottom: 0.15em solid brown;
+    margin: 1em;
+    padding: 1em;
 }
 body h3{
     border-bottom: 0.15em solid brown;
